@@ -4,12 +4,12 @@ Datasets
 
 The model is trained and evaluated using several benchmark SER datasets:
 
- 1.CREMA-D
+    1.CREMA-D
 
-2.RAVDESS
+    2.RAVDESS
 
-3.TESS
+    3.TESS
 
-4.SAVEE
+    4.SAVEE
 
 The combined dataset contains labeled audio samples across emotions such as angry, happy, fear, disgust, sad, neutral, calm, and surprise, with thousands of samples per class for robust training
