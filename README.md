@@ -13,3 +13,8 @@ The model is trained and evaluated using several benchmark SER datasets:
     4.Surrey Audio-Visual Expressed Emotion Dataset
 
 The combined dataset contains labeled audio samples across emotions such as angry, happy, fear, disgust, sad, neutral, calm, and surprise, with thousands of samples per class for robust training
+
+# METHODOLOGY 
+<img width="453" height="460" alt="image" src="https://github.com/user-attachments/assets/5476b05e-c4a4-44ae-a356-44c8ddb4995c" />
+
+
